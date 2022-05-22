@@ -1,0 +1,2 @@
+This is a demo line
+hello, this is a new line in staging area
